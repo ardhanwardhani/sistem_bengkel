@@ -1,0 +1,19 @@
+@font-face{
+	font-family: eligibles reg;
+	src: url('../fonts/EligibleSans-Regular.ttf');
+}
+
+@font-face{
+	font-family: eligibles it;
+	src: url('../fonts/EligibleSans-Italic.ttf');
+}
+
+@font-face{
+	font-family: eligibles bo;
+	src: url('../fonts/EligibleSans-Bold.ttf');
+}
+
+@font-face{
+	font-family: eligible bo it;
+	src: url('../fonts/EligibleSans-BoldItalic.ttf');
+}

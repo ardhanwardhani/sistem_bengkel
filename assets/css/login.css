@@ -1,0 +1,25 @@
+@font-face{
+	font-family: glyp;
+	src: url(assets/font/glyphicons-halflings-regular.ttf);
+}
+
+.login-wrap{
+	background: #ffffff;
+    padding: 3em 2em 2em;
+    border-bottom: 5px solid #1293d3;
+}
+
+.login-top{
+	background: #1293d3;
+    padding: 1px 11px 10px;
+}
+
+.login-top h2{
+	color: #ffffff;
+	text-align: center;
+	letter-spacing: -1px;
+}
+
+.w-in-tx{
+	margin-bottom: 2em
+}
